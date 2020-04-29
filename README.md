@@ -64,3 +64,6 @@
 * [SizeOf-Replacer](https://github.com/Rhotav/SizeOf-Replacer) - SizeOf Replacer for .NET Applications
 * [Venturi77CallHijacker](https://github.com/TobitoFatitoNulled/Venturi77CallHijacker) - KoiVM,EazVM,AgileVM Patcher 
 * [Atomic-Deobfuscator](https://github.com/CursedSheep/Atomic-Deobfuscator) - A deobfuscator for Atomic obfuscator
+* [EasyPredicateKiller](https://github.com/ZeroPlusBlog/EasyPredicateKiller) - Replacing and Calling ConfuserEx x86 Predicates
+* [ConfuserExSwitchKiller](https://github.com/VAllens/ConfuserExSwitchKiller) - ConfuserExSwitchKiller
+* [ConfuserEx-Anti-Debug-Remover](https://github.com/ALEHACKsp/ConfuserEx-Anti-Debug-Remover) - ConfuserEx-Anti-Debug-Remover
