@@ -65,5 +65,28 @@
 * [Venturi77CallHijacker](https://github.com/TobitoFatitoNulled/Venturi77CallHijacker) - KoiVM,EazVM,AgileVM Patcher 
 * [Atomic-Deobfuscator](https://github.com/CursedSheep/Atomic-Deobfuscator) - A deobfuscator for Atomic obfuscator
 * [EasyPredicateKiller](https://github.com/ZeroPlusBlog/EasyPredicateKiller) - Replacing and Calling ConfuserEx x86 Predicates
-* [ConfuserExSwitchKiller](https://github.com/VAllens/ConfuserExSwitchKiller) - ConfuserExSwitchKiller
+* [ConfuserExSwitchKiller](https://github.com/VAllens/ConfuserExSwitchKiller) -  ConfuserExSwitchKiller
 * [ConfuserEx-Anti-Debug-Remover](https://github.com/ALEHACKsp/ConfuserEx-Anti-Debug-Remover) - ConfuserEx-Anti-Debug-Remover
+* [Junk-Remover](https://github.com/DevT02/Junk-Remover) - .NET attributes cleaner/Junk remover (nops).
+* [PointMutationRemover](https://github.com/DevT02/PointMutationRemover) - 
+Does exactly what the title says, removes Point Mutations. Only supported with 2D points at the moment.
+* [AssemblyRebuilderOld](https://github.com/wwh1004/AssemblyRebuilderOld) - 
+[Obsolete] Fixup .Net Assembly dumped, if it can't work.
+* [AssemblyFixer](https://github.com/wwh1004/AssemblyFixer) - 
+Fix assembly pe header and metadata errors
+* [ExtremeDumper](https://github.com/wwh1004/ExtremeDumper) - 
+.NET Assembly Dumper
+* [Nemesis](https://github.com/not-matthias/Nemesis) - 
+A customizable process dumper.
+* [MegaDumper](https://github.com/CodeCracker-Tools/MegaDumper) - 
+Dump native and .NET assemblies
+* [DotNetCompressorDecompressor](https://github.com/ribthegreat99OrN0P/DotNetCompressorDecompressor) - 
+Decompresses files compressed with https://github.com/TotalTechGeek/DotNetCompressor
+* [BytePressDecompressor](https://github.com/ribthegreat99OrN0P/BytePressDecompressor) - Unpacks files compressed by BytePress(https://github.com/roachadam/bytepress)
+* [ILEmu](https://github.com/NETFuscator/ILEmu) - 
+WIP IL Emulator for deobfuscation usage
+* [KsDumper](https://github.com/EquiFox/KsDumper) - 
+Dumping processes using the power of kernel space !
+* [DeBrainfuck](https://github.com/Plot1337/DeBrainfuck) - 
+Static string decryption tool for xsilent007/StringsBrainFucked
+
