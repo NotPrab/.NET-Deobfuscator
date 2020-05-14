@@ -89,4 +89,8 @@ WIP IL Emulator for deobfuscation usage
 Dumping processes using the power of kernel space !
 * [DeBrainfuck](https://github.com/Plot1337/DeBrainfuck) - 
 Static string decryption tool for xsilent007/StringsBrainFucked
-
+* [Universal-Math-Fixer](https://github.com/Alxs009/Universal-Math-Fixer) - 
+This calculator load all methods from mscorlib.dll and checks equivalence with the method from the instruction
+* [SimpleMathCleaner](https://github.com/Mageland29/SimpleMathCleaner) - 
+Simple Math Cleaner with invoke method for generic use
+* [AntiDecompiler-Cleaner](https://github.com/NotPrab/AntiDecompiler-Cleaner) - An exception occurred when decompiling this method 
