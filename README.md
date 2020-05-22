@@ -89,4 +89,13 @@ WIP IL Emulator for deobfuscation usage
 Dumping processes using the power of kernel space !
 * [DeBrainfuck](https://github.com/Plot1337/DeBrainfuck) - 
 Static string decryption tool for xsilent007/StringsBrainFucked
-
+* [AntiInvokeDetection](https://github.com/obfuscators-2019/AntiInvokeDetection) - most string deobfuscators use Invoke to pick up the strings, however some obfuscators are using "GetCallingAssembly" to check if the method is being executed by another assembly 
+* [ConfuserEx-Static-String-Decryptor](https://github.com/Loksie/ConfuserEx-Static-String-Decryptor) - A static String Decryptor Based Off Instruction Emulator
+* [DeBabelVM](https://github.com/Panthere/DeBabelVM) - DeBabelVM is a restorer for the Babel Obfuscator - This will restore 'msil encrypt' methods for Babel
+* [Confuser-Methods-Decryptor](https://github.com/CodeCracker-Tools/Confuser-Methods-Decryptor) - Confuser-Methods-Decryptor
+* [AssemblyLoad](https://github.com/CodeCracker-Tools/AssemblyLoad) - AssemblyLoad
+* [АнонимProtector Constant Decryptor](https://github.com/Tanasittx/AHOHNMProtector-Constant-Decryptor) - Constant decryptor for another ConfuserEx Mod named Аноним Protector V1.1
+* [ConfuserEx-Static-String-Decryptor](https://github.com/Kinimiwar/ConfuserEx-Static-String-Decryptor) - it will decrypt strings statically from a non modded confuserex with or without cflow doesnt really matter
+* [ConfuserEx-Resources-Decryptor](https://github.com/MindSystemm/ConfuserEx-Resources-Decryptor) - This tool can decrypt encrypted resources from ConfuserEx and replace them
+* [ProtectNotNet](https://github.com/netlool/ProtectNotNet) - Decrypts Protect.NET encrypted strings
+* [ConfuserExResourceReplace](https://github.com/YuqseLx/ConfuserExResourceReplace) - ConfuserExResourceReplace
