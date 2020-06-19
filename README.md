@@ -2,6 +2,9 @@
 ## Lists of .NET Deobfuscator / Unpacker (Open Source)
 
 ## General Lists
+- ### Agile
+  - [AgileStringDecryptor](https://github.com/NotPrab/AgileStringDecryptor) - A dynamic agile string decryptor that relies on invoke.
+
 - ### ArchangelCloak
   - [ArchangeIUncloaker](https://github.com/TobitoFatitoNulled/ArchangelUnCloaker) - Public ArchangelCloak Deobfuscator
 
