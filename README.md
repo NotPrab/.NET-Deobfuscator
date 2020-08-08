@@ -20,6 +20,7 @@
 - ### Babel
   - [BabelDeobfuscator](https://github.com/n017/BabelDeobfuscator) - BabelDeobfuscator is an open-source deobfuscator for BabelObfuscator
   - [DeBabelVM](https://github.com/Panthere/DeBabelVM) - DeBabelVM is a restorer for the Babel Obfuscator - This will restore 'msil encrypt' methods for Babel
+  - [Babel-Deobfuscator](https://github.com/Melanie-LEB/Babel-Deobfuscator) - Babel-Deobfuscator is an open-source deobfuscator for Babel Obfuscator.
   
 - ### BoxedAppPacker
   - [BoxedAppUnpacked](https://github.com/MindSystemm/BoxedAppUnpacked) - Tool to unpack .net assemblies packed by BoxedAppPacker
