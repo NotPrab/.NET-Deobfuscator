@@ -4,6 +4,7 @@
 ## General Lists
 - ### Agile
   - [AgileStringDecryptor](https://github.com/NotPrab/AgileStringDecryptor) - A dynamic agile string decryptor that relies on invoke.
+  - [Agile.NET-Deobfuscator](https://github.com/ribthegreat99OrN0P/Agile.NET-Deobfuscator) - Deobfuscates Agile.NET controlflow, strings, and proxy delegates. Please let me know for new updates or any other problems. Throughout the full source on every line it contains comments so you can easily understand the process behind it. Enjoy!
 
 - ### ArchangelCloak
   - [ArchangeIUncloaker](https://github.com/TobitoFatitoNulled/ArchangelUnCloaker) - Public ArchangelCloak Deobfuscator
@@ -120,6 +121,7 @@ Simple Math Cleaner with invoke method for generic use
 
 - ### KoiVM
   - [OldRod](https://github.com/Washi1337/OldRod) - An automated KoiVM devirtualisation utility
+  - [Rhydon](https://github.com/TobitoFatitoRE/Rhydon) - Rhydon
  
 - ### MemeVM
   - [MemeDevirtualizer](https://github.com/MindSystemm/MemeDevirtualizer) - Devirtualizer for MemeVM (MindSystem)
@@ -129,6 +131,8 @@ Simple Math Cleaner with invoke method for generic use
 - ### Noisette Obfuscator
   - [Noisette-Deobfuscator](https://github.com/Rhotav/Noisette-Deobfuscator) - A Deobfuscator for Noisette Obfuscator
 
+- ### NETReactor
+  - [Krypton](https://github.com/TobitoFatitoRE/Krypton) - .Net Reactor Devirtualizer
 
 - ### Obfuscar
   - [DeObfuscar](https://github.com/XenocodeRCE/DEObfuscar) - An open source deobfuscator for 'Obfuscar'
@@ -143,6 +147,10 @@ Simple Math Cleaner with invoke method for generic use
   - [Venturi77CallHijacker](https://github.com/TobitoFatitoNulled/Venturi77CallHijacker) - KoiVM,EazVM,AgileVM Patcher.
   - [Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
   - [JitUnpacker-Framework](https://github.com/wwh1004/JitUnpacker-Framework) - A jit hook and unpacker framework
+  - [dnpatch](https://github.com/ioncodes/dnpatch) - dnpatch is the ultimate library for all your .NET patching needs. It offers automated assembly patching, signature scanning and last but but not least bypassing of obfuscators by its ability to find methods in renamed/obfuscated types. Since the stars on GitHub exploded in a few days, dnpatch has been extended by a couple of projects. The most important one is dnpatch.deobfuscation which integrates de4dot directly into dnpatch. Also there is dnpatch.script, which gives you the ability to write patchers with pure JSON! The library itself uses dnlib (see next part).
+
+- ### Renamer
+  - [simple-deobfuscator](https://github.com/SLenik/simple-deobfuscator) - simple-deobfuscator
 
 - ### Panda
   - [Panda-Deobfuscator](https://github.com/Alxs009/Panda-Deobfuscator) - Panda Deobfuscator
@@ -159,6 +167,8 @@ Simple Math Cleaner with invoke method for generic use
   - [StackYenoDeobfuscator](https://github.com/MindSystemm/StackYenoDeobfuscator) - String decryptor relying on the stack. Made for teach
   - [StringDecryptorBase](https://github.com/MindSystemm/StringDecryptorBase) - Complete basic string decryptor to help new reversers. The code is commented
   - [Deobfuscation-Tutorials](https://github.com/TheProxyRE/Deobfuscation-Tutorials) - String Deobfuscation Tutorials by TheProxy
+  - [DynamicStringDecrypter](https://github.com/ribthegreat99OrN0P/DynamicStringDecrypter) - Decrypts strings dynamically, using https://github.com/Washi1337/AsmResolver
+  - [OutStringDecrypter](https://github.com/Virility/OutStringDecrypter) - OutStringDecrypter
 
 - ### Skater.Net Obfuscator
   - [Skater.NetDeobfuscator](https://github.com/MindSystemm/Skater.NetDeobfuscator) - Deobfuscator for RustemSoft Skater.Net Obfuscator
