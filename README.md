@@ -53,6 +53,7 @@
   - [ConfuserEx-Static-String-Decryptor](https://github.com/Kinimiwar/ConfuserEx-Static-String-Decryptor) - it will decrypt strings statically from a non modded confuserex with or without cflow doesnt really matter
   - [ConfuserEx-Resources-Decryptor](https://github.com/MindSystemm/ConfuserEx-Resources-Decryptor) - This tool can decrypt encrypted resources from ConfuserEx and replace them
   - [ConfuserExResourceReplace](https://github.com/YuqseLx/ConfuserExResourceReplace) - ConfuserExResourceReplace
+  - [ConfuserExTools](https://github.com/wwh1004/ConfuserExTools) - ConfuserEx unpacking tools basic support for ConfuserEx (AntiTamper, ReferenceProxy, Constants)
  
 - ### Crypto Obfuscator
   - [Crypto-Deobfuscator](https://github.com/Rhotav/Crypto-Deobfuscator) - A Deobfuscator for Crypto Obfuscator
