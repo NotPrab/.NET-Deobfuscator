@@ -134,6 +134,9 @@ Simple Math Cleaner with invoke method for generic use
 
 - ### NETReactor
   - [Krypton](https://github.com/TobitoFatitoRE/Krypton) - .Net Reactor Devirtualizer
+  
+- ### NaShaVM
+  - [Deoxys](https://github.com/StackUnderflowRE/Deoxys) - Deoxys is a Devirtualization utility for NashaVM, a Virtual Machine which runtime was made in C++/CLI 
 
 - ### Obfuscar
   - [DeObfuscar](https://github.com/XenocodeRCE/DEObfuscar) - An open source deobfuscator for 'Obfuscar'
