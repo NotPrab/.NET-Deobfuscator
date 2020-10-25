@@ -137,6 +137,7 @@ Simple Math Cleaner with invoke method for generic use
   
 - ### NaShaVM
   - [Deoxys](https://github.com/StackUnderflowRE/Deoxys) - Deoxys is a Devirtualization utility for NashaVM, a Virtual Machine which runtime was made in C++/CLI 
+  - [TheBear](https://github.com/GabTeix/TheBear) - .NET Devirtualizer for NashaVM that Gabtiex made for nothing.
 
 - ### Obfuscar
   - [DeObfuscar](https://github.com/XenocodeRCE/DEObfuscar) - An open source deobfuscator for 'Obfuscar'
