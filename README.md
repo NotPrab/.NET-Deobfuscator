@@ -54,6 +54,7 @@
   - [ConfuserEx-Resources-Decryptor](https://github.com/MindSystemm/ConfuserEx-Resources-Decryptor) - This tool can decrypt encrypted resources from ConfuserEx and replace them
   - [ConfuserExResourceReplace](https://github.com/YuqseLx/ConfuserExResourceReplace) - ConfuserExResourceReplace
   - [ConfuserExTools](https://github.com/wwh1004/ConfuserExTools) - ConfuserEx unpacking tools basic support for ConfuserEx (AntiTamper, ReferenceProxy, Constants)
+  - [Unscrambler](https://github.com/dr4k0nia/Unscrambler) - Universal unpacker and fixer for a number of modded ConfuserEx protections
  
 - ### Crypto Obfuscator
   - [Crypto-Deobfuscator](https://github.com/Rhotav/Crypto-Deobfuscator) - A Deobfuscator for Crypto Obfuscator
