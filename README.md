@@ -5,6 +5,7 @@
 - ### Agile
   - [AgileStringDecryptor](https://github.com/NotPrab/AgileStringDecryptor) - A dynamic agile string decryptor that relies on invoke.
   - [Agile.NET-Deobfuscator](https://github.com/ribthegreat99OrN0P/Agile.NET-Deobfuscator) - Deobfuscates Agile.NET controlflow, strings, and proxy delegates. Please let me know for new updates or any other problems. Throughout the full source on every line it contains comments so you can easily understand the process behind it. Enjoy!
+  - [AgileDotNet-StringDeobfuscator](https://github.com/waynebonc/AgileDotNet-StringDeobfuscator) - Quickly decrypts strings from Agile.NET (aka AgileDotNet, CliSecure) packed assemblies. Supports multiple modules.
 
 - ### ArchangelCloak
   - [ArchangeIUncloaker](https://github.com/TobitoFatitoNulled/ArchangelUnCloaker) - Public ArchangelCloak Deobfuscator
@@ -115,6 +116,7 @@ Simple Math Cleaner with invoke method for generic use
   - [AntiInvokeDetection](https://github.com/obfuscators-2019/AntiInvokeDetection) - most string deobfuscators use Invoke to pick up the strings, however some obfuscators are using "GetCallingAssembly" to check if the method is being executed by another assembly 
   - [Excess-Nop-Remover](https://github.com/RivaTesu/Excess-Nop-Remover) - Remove excess nop opcodes
   - [Universal-Proxy-Remover](https://github.com/Jomtek/Universal-Proxy-Remover) - A simple and universal .NET proxy remover
+  - [ProxyCall-Remover](https://github.com/Kaidoz/ProxyCall-Remover) - Deobfuscator for remove proxy calls methods 
 
 - ### ILProtector
   - [ILProtectorUnpacker](https://github.com/RexProg/ILProtectorUnpacker) - ILProtector Unpacker Script
@@ -130,15 +132,19 @@ Simple Math Cleaner with invoke method for generic use
   - [MemeVM-Devirt](https://github.com/CursedSheep/MemeVM-Devirt) - A devirtualizer for MemeVM (CursedSheep)
   - [MemeVMDevirt](https://github.com/congviet/MemeVMDevirt) - devirtualizer for memevm (MageLand29)
 
+- ### NashaVM
+  - [Deoxys](https://github.com/StackUnderflowRE/Deoxys) - Deoxys is a Devirtualization utility for NashaVM, a Virtual Machine which runtime was made in C++/CLI 
+  - [TheBear](https://github.com/GabTeix/TheBear) - .NET Devirtualizer for NashaVM that Gabtiex made for nothing.
+
 - ### Noisette Obfuscator
   - [Noisette-Deobfuscator](https://github.com/Rhotav/Noisette-Deobfuscator) - A Deobfuscator for Noisette Obfuscator
 
 - ### NETReactor
   - [Krypton](https://github.com/TobitoFatitoRE/Krypton) - .Net Reactor Devirtualizer
-  
-- ### NaShaVM
-  - [Deoxys](https://github.com/StackUnderflowRE/Deoxys) - Deoxys is a Devirtualization utility for NashaVM, a Virtual Machine which runtime was made in C++/CLI 
-  - [TheBear](https://github.com/GabTeix/TheBear) - .NET Devirtualizer for NashaVM that Gabtiex made for nothing.
+  - [.NET-Reactor-String-Decryptor](https://github.com/robert169/.NET-Reactor-String-Decryptor) - .NET-Reactor-String-Decryptor
+  - [.NetReactorCfCleaner](https://github.com/SychicBoy/.NetReactorCfCleaner) - A control flow cleaner for .net reactor 6x
+  - [.NETReactor_6.3.0.0_Only_Strings](https://github.com/DarkBullNull/.NETReactor_6.3.0.0_Only_Strings) - Example deobfuscate .NET Reactor 6.3.0.0 strings(ONLY STRINGS)
+
 
 - ### Obfuscar
   - [DeObfuscar](https://github.com/XenocodeRCE/DEObfuscar) - An open source deobfuscator for 'Obfuscar'
@@ -154,9 +160,11 @@ Simple Math Cleaner with invoke method for generic use
   - [Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
   - [JitUnpacker-Framework](https://github.com/wwh1004/JitUnpacker-Framework) - A jit hook and unpacker framework
   - [dnpatch](https://github.com/ioncodes/dnpatch) - dnpatch is the ultimate library for all your .NET patching needs. It offers automated assembly patching, signature scanning and last but but not least bypassing of obfuscators by its ability to find methods in renamed/obfuscated types. Since the stars on GitHub exploded in a few days, dnpatch has been extended by a couple of projects. The most important one is dnpatch.deobfuscation which integrates de4dot directly into dnpatch. Also there is dnpatch.script, which gives you the ability to write patchers with pure JSON! The library itself uses dnlib (see next part).
+  - [EazRemoveTrial](https://github.com/M4doT/EazRemoveTrial) - After protected with Eazfuscator trial version then drag your protected file into EazRemoveTrial.exe, So you can use it forever not for 7 days, Working with lastest version
 
 - ### Renamer
   - [simple-deobfuscator](https://github.com/SLenik/simple-deobfuscator) - simple-deobfuscator
+  - [BB-Deob](https://github.com/KadeDev/BB-Deob) - BeeByte Deobfuscator simply renames all the classes/fields/methods/params to readable strings that can be understood. AS I know BB Obfuscator only renames classes and etc, so it should be fully reversable at that point.
 
 - ### Panda
   - [Panda-Deobfuscator](https://github.com/Alxs009/Panda-Deobfuscator) - Panda Deobfuscator
@@ -181,6 +189,9 @@ Simple Math Cleaner with invoke method for generic use
  
 - ### SpecterObfuscator
   - [SpecterObfuscator-Deobfuscator](https://github.com/XenocodeRCE/SpecterObfuscator-Deobfuscator) - a deobfuscator for https://github.com/NepErwin/SpecterObfuscator
+
+- ### VMP.NET
+  - [VMP.NET-Kill](https://github.com/DarkBullNull/VMP.NET-Kill) - This program allows you to bypass CRC checking, anti-debugging and anti-VM. Doesn't work when the app is packaged. 
 
 - ### Themida .NET
   - [Themida-Unpacker-for-.NET](https://github.com/cg10036/Themida-Unpacker-for-.NET) - Themida Unpacker for .NET
