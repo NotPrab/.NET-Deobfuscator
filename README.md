@@ -55,11 +55,15 @@
   - [ConfuserEx-Resources-Decryptor](https://github.com/MindSystemm/ConfuserEx-Resources-Decryptor) - This tool can decrypt encrypted resources from ConfuserEx and replace them
   - [ConfuserExResourceReplace](https://github.com/YuqseLx/ConfuserExResourceReplace) - ConfuserExResourceReplace
   - [ConfuserExTools](https://github.com/wwh1004/ConfuserExTools) - ConfuserEx unpacking tools basic support for ConfuserEx (AntiTamper, ReferenceProxy, Constants)
+  - [FinGu-Cfex-Cleaner](https://github.com/CursedLand/FinGu-Cfex-Cleaner) - Removing/Cleaning FinGu Cfex Mutations 
   - [Unscrambler](https://github.com/dr4k0nia/Unscrambler) - Universal unpacker and fixer for a number of modded ConfuserEx protections
  
 - ### Crypto Obfuscator
   - [Crypto-Deobfuscator](https://github.com/Rhotav/Crypto-Deobfuscator) - A Deobfuscator for Crypto Obfuscator
  
+- ### Cypher
+  - [Cyphor-Pointer-Remover](https://github.com/CursedLand/Cyphor-Pointer-Remover) - Removes Cyphor Pointer Mutations | Cyphor : cyphor.net
+
 - ### De4dot
   - [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
   - [de4dot-cex](https://github.com/ViRb3/de4dot-cex) -  de4dot deobfuscator with full support for vanilla ConfuserEx 
@@ -101,11 +105,15 @@ Fix assembly pe header and metadata errors
   - [CalliFixer](https://github.com/Riziebtw/CalliFixer) - Here is a little program that remove calli protection from files, easy to use & easy to understand. Using the dnlib assembly.
   - [Base64Encoding-Fixer](https://github.com/Riziebtw/Base64Encoding-Fixer) - Little tool that i made cuse i'm bored rn, fix the string encryption protection (the one which encrypt strings to base64 made by **forgothisname**). Using dnlib assembly. 
   - [DoubleParseFixer](https://github.com/Riziebtw/DoubleParseFixer) - Little program that i made to fix Double Parse obfuscation. Using dnlib assembly.
+  - [Dumpy](https://github.com/NSDCode/Dumpy) -  Simple .NET Assembly deobfuscator. 
+  - [IntToString-Deobfuscator](https://github.com/epic6969/IntToString-Deobfuscator) - deobfuscator for int to string mutation (C#) supports negative values
+  - [Local2FieldFixer](https://github.com/CursedLand/Local2FieldFixer) - Remove Fields From GlobalType<cctor> To Locals
   - [SizeOf-Fixer](https://github.com/RivaTesu/SizeOf-Fixer) -Fix the sizeof of assembly
   - [SuperCalculator](https://github.com/MindSystemm/SuperCalculator) - Helpful tool which handle most operations used in obfuscation
   - [Mathematical-Operation-Simplifier](https://github.com/Rhotav/Mathematical-Operation-Simplifier) -Mathematical Operation Simplifier for .NET Applications
   - [SizeOf-Replacer](https://github.com/Rhotav/SizeOf-Replacer) - SizeOf Replacer for .NET Applications
   - [Junk-Remover](https://github.com/DevT02/Junk-Remover) - .NET attributes cleaner/Junk remover (nops).
+  - [ProxyCall-Remover](https://github.com/Kaidoz/ProxyCall-Remover) - Deobfuscator for remove proxy calls methods 
   - [PointMutationRemover](https://github.com/DevT02/PointMutationRemover) - 
 Does exactly what the title says, removes Point Mutations. Only supported with 2D points at the moment.
   - [Universal-Math-Fixer](https://github.com/Alxs009/Universal-Math-Fixer) - 
