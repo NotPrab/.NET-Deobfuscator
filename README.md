@@ -125,6 +125,7 @@ Simple Math Cleaner with invoke method for generic use
   - [Excess-Nop-Remover](https://github.com/RivaTesu/Excess-Nop-Remover) - Remove excess nop opcodes
   - [Universal-Proxy-Remover](https://github.com/Jomtek/Universal-Proxy-Remover) - A simple and universal .NET proxy remover
   - [ProxyCall-Remover](https://github.com/Kaidoz/ProxyCall-Remover) - Deobfuscator for remove proxy calls methods 
+  - [csharpDll_Renamer](https://github.com/CrafterMinecrafter/csharpDll_Renamer) - Replacing assembly file name to name from assembly 
 
 - ### ILProtector
   - [ILProtectorUnpacker](https://github.com/RexProg/ILProtectorUnpacker) - ILProtector Unpacker Script
