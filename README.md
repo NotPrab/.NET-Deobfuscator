@@ -208,6 +208,7 @@ Simple Math Cleaner with invoke method for generic use
 
 - ### Themida .NET
   - [Themida-Unpacker-for-.NET](https://github.com/cg10036/Themida-Unpacker-for-.NET) - Themida Unpacker for .NET
+  - [ThemidaStringDecryptor](https://github.com/oSumAtrIX/ThemidaStringDecryptor) - Decrypt strings from a themida .net module dump 
   
 - ### Yano
   - [YanoDeobfuscator](https://github.com/n017/YanoDeobfuscator) - YanoDeobfuscator is an open-source deobfuscator for YanoObfuscator
