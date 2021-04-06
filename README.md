@@ -57,6 +57,7 @@
   - [ConfuserExTools](https://github.com/wwh1004/ConfuserExTools) - ConfuserEx unpacking tools basic support for ConfuserEx (AntiTamper, ReferenceProxy, Constants)
   - [FinGu-Cfex-Cleaner](https://github.com/CursedLand/FinGu-Cfex-Cleaner) - Removing/Cleaning FinGu Cfex Mutations 
   - [Unscrambler](https://github.com/dr4k0nia/Unscrambler) - Universal unpacker and fixer for a number of modded ConfuserEx protections
+  - [Cursed-Auto-Decryptor](https://github.com/CursedLand/Cursed-Auto-Decryptor) - Program Decrypt Cfex / Modded Cfex Constants By Auto Detecting Params 
  
 - ### Crypto Obfuscator
   - [Crypto-Deobfuscator](https://github.com/Rhotav/Crypto-Deobfuscator) - A Deobfuscator for Crypto Obfuscator
@@ -97,7 +98,7 @@ Dumping processes using the power of kernel space !
   - [EazFixer](https://github.com/HoLLy-HaCKeR/EazFixer) - A deobfuscation tool for Eazfuscator.
   - [eazdevirt](https://github.com/saneki/eazdevirt) -Devirtualizer for Eazfuscator.NET
 
-- ### Fixer / Replacer / Simplifier / Remover
+- ### Fixer / Replacer / Simplifier / Remover / Decompressor
   - [AssemblyRebuilderOld](https://github.com/wwh1004/AssemblyRebuilderOld) - [Obsolete] Fixup .Net Assembly dumped, if it can't work.
   - [AssemblyFixer](https://github.com/wwh1004/AssemblyFixer) - 
 Fix assembly pe header and metadata errors
@@ -124,7 +125,10 @@ Simple Math Cleaner with invoke method for generic use
   - [AntiInvokeDetection](https://github.com/obfuscators-2019/AntiInvokeDetection) - most string deobfuscators use Invoke to pick up the strings, however some obfuscators are using "GetCallingAssembly" to check if the method is being executed by another assembly 
   - [Excess-Nop-Remover](https://github.com/RivaTesu/Excess-Nop-Remover) - Remove excess nop opcodes
   - [Universal-Proxy-Remover](https://github.com/Jomtek/Universal-Proxy-Remover) - A simple and universal .NET proxy remover
-  - [ProxyCall-Remover](https://github.com/Kaidoz/ProxyCall-Remover) - Deobfuscator for remove proxy calls methods 
+  - [ProxyCall-Remover](https://github.com/Kaidoz/ProxyCall-Remover) - Deobfuscator for remove proxy calls methods
+  - [UnSealer](https://github.com/CursedLand/UnSealer) - A Deobfuscator Base Which Uses Plugins And Multi-Platform Of Assembly Lib's | Its Easy To Build On Download Now Make Ur Own Plugin !                 
+  - [Simple-Costura-Decompressor](https://github.com/dr4k0nia/Simple-Costura-Decompressor) - Simple tool to extract and decompress embedded resources processed by Fody Costura 
+  - [Fody-Costura-Decompress](https://github.com/G4224T/Fody-Costura-Decompress) -  Fody-Costura Decompress                                                       
 
 - ### ILProtector
   - [ILProtectorUnpacker](https://github.com/RexProg/ILProtectorUnpacker) - ILProtector Unpacker Script
@@ -152,6 +156,7 @@ Simple Math Cleaner with invoke method for generic use
   - [.NET-Reactor-String-Decryptor](https://github.com/robert169/.NET-Reactor-String-Decryptor) - .NET-Reactor-String-Decryptor
   - [.NetReactorCfCleaner](https://github.com/SychicBoy/.NetReactorCfCleaner) - A control flow cleaner for .net reactor 6x
   - [.NETReactor_6.3.0.0_Only_Strings](https://github.com/DarkBullNull/.NETReactor_6.3.0.0_Only_Strings) - Example deobfuscate .NET Reactor 6.3.0.0 strings(ONLY STRINGS)
+  - [Cursed.Reactor](https://github.com/CursedLand/Cursed.Reactor) - Full .Net Reactor UnPacker 🙂 Except VM & NecroBit 
 
 
 - ### Obfuscar
