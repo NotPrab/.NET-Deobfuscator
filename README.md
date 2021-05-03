@@ -65,9 +65,14 @@
 - ### Cypher
   - [Cyphor-Pointer-Remover](https://github.com/CursedLand/Cyphor-Pointer-Remover) - Removes Cyphor Pointer Mutations | Cyphor : cyphor.net
 
+- ### DCNETProtector
+  - [DCNetStringDecryptor](https://github.com/miso-xyz/DCNetStringDecryptor) - String Decryptor for DC.NET Protector (tested on v1.1.0.1) 
 - ### De4dot
   - [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
   - [de4dot-cex](https://github.com/ViRb3/de4dot-cex) -  de4dot deobfuscator with full support for vanilla ConfuserEx 
+
+- ### DNGuard
+  - [DNGuard-InvalidMD](https://github.com/NSDCode/DNGuard-InvalidMD) - The easiest way to remove DNGuard Invalid-MD
 
 - ### DotnetPatcher
   - [DNPDeobfuscator](https://github.com/XenocodeRCE/DNPDeobfuscator) - Open-source deobfuscator for dotnetpatcher (https://bitbucket.org/3dotdev/dotnet-patcher/src/)
@@ -128,7 +133,11 @@ Simple Math Cleaner with invoke method for generic use
   - [ProxyCall-Remover](https://github.com/Kaidoz/ProxyCall-Remover) - Deobfuscator for remove proxy calls methods
   - [UnSealer](https://github.com/CursedLand/UnSealer) - A Deobfuscator Base Which Uses Plugins And Multi-Platform Of Assembly Lib's | Its Easy To Build On Download Now Make Ur Own Plugin !                 
   - [Simple-Costura-Decompressor](https://github.com/dr4k0nia/Simple-Costura-Decompressor) - Simple tool to extract and decompress embedded resources processed by Fody Costura 
-  - [Fody-Costura-Decompress](https://github.com/G4224T/Fody-Costura-Decompress) -  Fody-Costura Decompress                                                       
+  - [Fody-Costura-Decompress](https://github.com/G4224T/Fody-Costura-Decompress) -  Fody-Costura Decompress           
+  - [netshrinkTrialRemover](https://github.com/miso-xyz/netshrinkTrialRemover) - Removes Trial Restrication from .netshrink Applications (tested on v2.9)        
+  - [PEXTUnion](https://github.com/miso-xyz/PEXTUnion) - Cleaner & Extractor for PEUnion (tested on PEunion 3.1.5) 
+  - [NETz_Unpacker](https://github.com/miso-xyz/NETz_Unpacker) - Unpacker for NETz Compressor  
+  - [MutationCleaner](https://github.com/miso-xyz/MutationCleaner) - Mod of DevT02's Point Mutation Remover. Now supports TimeSpan Mutations & Now has Better CUI                                     
 
 - ### ILProtector
   - [ILProtectorUnpacker](https://github.com/RexProg/ILProtectorUnpacker) - ILProtector Unpacker Script
@@ -166,6 +175,9 @@ Simple Math Cleaner with invoke method for generic use
 - ### OrangeHeap
   - [OrangeHeap-Deobfuscator](https://github.com/netlool/OrangeHeap-Deobfuscator) - Deobfuscates an Assembly protected with Orangeheap
 
+- ### Origami
+  - [Unfold](https://github.com/NSDCode/Unfold) - Unfold is a simple tool that extract Assmebly packed with Origami.
+
 - ### Patcher
   - [.NET-Virtualized-App-Patcher](https://github.com/ForlaxPy/.NET-Virtualized-Apps-Patcher) - This is a universal Patcher that I coded for Virtualized Applications. Protected by KoiVM/EazVM/AgileVM. The project idea wasn't mine at all it was by xsilent and Tobito and they released a txt that contains the tracer, uh I asked time for some infos and ended up coding my version.
   - [JIT-Freezer](https://github.com/ZrCulillo/JIT-Freezer) - This program is used to suspend applications with a native layer in order to dump them (Only .NET)
@@ -174,6 +186,7 @@ Simple Math Cleaner with invoke method for generic use
   - [JitUnpacker-Framework](https://github.com/wwh1004/JitUnpacker-Framework) - A jit hook and unpacker framework
   - [dnpatch](https://github.com/ioncodes/dnpatch) - dnpatch is the ultimate library for all your .NET patching needs. It offers automated assembly patching, signature scanning and last but but not least bypassing of obfuscators by its ability to find methods in renamed/obfuscated types. Since the stars on GitHub exploded in a few days, dnpatch has been extended by a couple of projects. The most important one is dnpatch.deobfuscation which integrates de4dot directly into dnpatch. Also there is dnpatch.script, which gives you the ability to write patchers with pure JSON! The library itself uses dnlib (see next part).
   - [EazRemoveTrial](https://github.com/M4doT/EazRemoveTrial) - After protected with Eazfuscator trial version then drag your protected file into EazRemoveTrial.exe, So you can use it forever not for 7 days, Working with lastest version
+
 
 - ### Renamer
   - [simple-deobfuscator](https://github.com/SLenik/simple-deobfuscator) - simple-deobfuscator
