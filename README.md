@@ -168,6 +168,7 @@ Simple Math Cleaner with invoke method for generic use
   - [Cursed.Reactor](https://github.com/CursedLand/Cursed.Reactor) - Full .Net Reactor UnPacker 🙂 Except VM & NecroBit 
   - [NET-Reactor-Cflow-Cleaner-6.7.0.0](https://github.com/Hussaryn/NET-Reactor-Cflow-Cleaner-6.7.0.0) - Simple Controlflow Deobfuscator for .NET Reactor 6.7.0.0
   - [NET-Reactor-String-Cleaner-6.7.0.0](https://github.com/Hussaryn/NET-Reactor-String-Cleaner-6.7.0.0) - Simple String Cleaner for .NET Reactor 6.7.0.0
+  - [.NETReactorSlayer](https://github.com/SychicBoy/NETReactorSlayer) - A GUI and CLI deobfuscator for .NET Reactor which also decrypts tokens, cleans, flow deobfuscator, and many more. 
                                                                                                                            
 - ### Obfuscar
   - [DeObfuscar](https://github.com/XenocodeRCE/DEObfuscar) - An open source deobfuscator for 'Obfuscar'
