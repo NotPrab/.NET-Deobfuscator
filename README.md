@@ -1,11 +1,63 @@
 # .NET Deobfuscator
 ## Lists of .NET Deobfuscator / Unpacker (Open Source)
+- [Agile](#agile)
+- [ArchangelCloak](#archangelcloak)
+- [Atomic](#atomic)
+- [AutoIt](#autoit)
+- [Autori Obfuscator](#autori-obfuscator)
+- [Babel](#babel)
+- [BoxedAppPacker](#boxedapppacker)
+- [BytePress](#bytepress)
+- [Beebyte](#beebyte)
+- [Confuser 1.9](#confuser-19)
+- [ConfuserEx](#confuserex)
+- [Crypto Obfuscator](#crypto-obfuscator)
+- [Cypher](#cypher)
+- [DCNETProtector](#dcnetprotector)
+- [De4dot](#de4dot)
+- [DNGuard](#dnguard)
+- [DotnetPatcher](#dotnetpatcher)
+- [DotNetCompressor](#dotnetcompressor)
+- [DotRefiner](#dotrefiner)
+- [DotWall](#dotwall)
+- [Dumper](#dumper)
+- [Eazfuscator](#eazfuscator)
+- [Habib](#habib)
+- [Fixer / Replacer / Simplifier / Remover / Decompressor](#fixer-replacer-simplifier-remover-decompressor)
+- [ILProtector](#ilprotector)
+- [KoiVM](#koivm)
+- [Logic.NET](#logicnet)
+- [MemeVM](#memevm)
+- [MindLated](#mindlated)
+- [NashaVM](#nashavm)
+- [Noisette Obfuscator](#noisette-obfuscator)
+- [NETReactor](#netreactor)
+- [NetShield Protector](#netshield-protector)
+- [Obfuscar](#obfuscar)
+- [OrangeHeap](#orangeheap)
+- [Obfuscar](#obfuscar)
+- [Origami](#origami)
+- [Patcher](#patcher)
+- [Renamer](#renamer)
+- [Panda](#panda)
+- [Phoenix Obfuscator](#phoenix-obfuscator)
+- [Protect.NET](#protectnet)
+- [SaintFuscator](#saintfuscator)
+- [String Decryptor](#string-decryptor)
+- [Skater.Net Obfuscator](#skaternet-obfuscator)
+- [SpecterObfuscator](#specterobfuscator)
+- [Spices.Net](#spicesnet)
+- [VMP.NET](#vmpnet)
+- [Themida .NET](#themida-net)
+- [Yano](#yano)
+
 
 ## General Lists
 - ### Agile
   - [AgileStringDecryptor](https://github.com/NotPrab/AgileStringDecryptor) - A dynamic agile string decryptor that relies on invoke.
   - [Agile.NET-Deobfuscator](https://github.com/ribthegreat99OrN0P/Agile.NET-Deobfuscator) - Deobfuscates Agile.NET controlflow, strings, and proxy delegates. Please let me know for new updates or any other problems. Throughout the full source on every line it contains comments so you can easily understand the process behind it. Enjoy!
   - [AgileDotNet-StringDeobfuscator](https://github.com/waynebonc/AgileDotNet-StringDeobfuscator) - Quickly decrypts strings from Agile.NET (aka AgileDotNet, CliSecure) packed assemblies. Supports multiple modules.
+  - [AgileDotNetSlayer](https://github.com/SychicBoy/AgileDotNetSlayer) - A simple and open source (GPLv3) deobfuscator for Agile.NET 
 
 - ### ArchangelCloak
   - [ArchangeIUncloaker](https://github.com/TobitoFatitoNulled/ArchangelUnCloaker) - Public ArchangelCloak Deobfuscator
@@ -23,7 +75,8 @@
   - [BabelDeobfuscator](https://github.com/n017/BabelDeobfuscator) - BabelDeobfuscator is an open-source deobfuscator for BabelObfuscator
   - [DeBabelVM](https://github.com/Panthere/DeBabelVM) - DeBabelVM is a restorer for the Babel Obfuscator - This will restore 'msil encrypt' methods for Babel
   - [Babel-Deobfuscator](https://github.com/Melanie-LEB/Babel-Deobfuscator) - Babel-Deobfuscator is an open-source deobfuscator for Babel Obfuscator.
-  
+  - [BabelTrialRemover](https://github.com/miso-xyz/BabelTrialRemover) - Remove/Disable Babel Obfuscator 30 Day limit from apps (tested on 9.7.5.0) 
+
 - ### BoxedAppPacker
   - [BoxedAppUnpacked](https://github.com/MindSystemm/BoxedAppUnpacked) - Tool to unpack .net assemblies packed by BoxedAppPacker
   
@@ -32,6 +85,9 @@
   
 - ### Beebyte 
   - [beeless](https://github.com/ioncodes/beeless) - BeeByte Deobfuscator. Used it to deobfuscate an Unity3D Game. Alternatively, de4dot works aswell. 
+  - [Beebyte-Deobfuscator](https://github.com/OsOmE1/Beebyte-Deobfuscator) - A plugin for Il2CppInspector that performs quasi deobfuscation 
+  - [BB-Deob](https://github.com/KadeDev/BB-Deob) - BeeByte Deobfuscator (RENAME) 
+  - [proshine-cleaner](https://github.com/Silv3rPRO/proshine-cleaner) - A small tool to clean an assembly obfuscated with Beebyte's obfuscator. 
   
 - ### Confuser 1.9
   - [ConfuserDeobfuscator](https://github.com/maddnias/ConfuserDeobfuscator) - Deobfuscator for Confuser 1.9.0.0 release
@@ -58,6 +114,7 @@
   - [FinGu-Cfex-Cleaner](https://github.com/CursedLand/FinGu-Cfex-Cleaner) - Removing/Cleaning FinGu Cfex Mutations 
   - [Unscrambler](https://github.com/dr4k0nia/Unscrambler) - Universal unpacker and fixer for a number of modded ConfuserEx protections
   - [Cursed-Auto-Decryptor](https://github.com/CursedLand/Cursed-Auto-Decryptor) - Program Decrypt Cfex / Modded Cfex Constants By Auto Detecting Params 
+  - [cfxc-deobf](https://github.com/wildcardc/cfxc-deobf) - A ConfuserEx-custom deobfuscation toolchain  
  
 - ### Crypto Obfuscator
   - [Crypto-Deobfuscator](https://github.com/Rhotav/Crypto-Deobfuscator) - A Deobfuscator for Crypto Obfuscator
@@ -72,7 +129,7 @@
   - [de4dot-cex](https://github.com/ViRb3/de4dot-cex) -  de4dot deobfuscator with full support for vanilla ConfuserEx 
 
 - ### DNGuard
-  - [DNGuard-InvalidMD](https://github.com/NSDCode/DNGuard-InvalidMD) - The easiest way to remove DNGuard Invalid-MD
+  - [DNGuard-InvalidMD](https://github.com/nelpats/DNGuard-InvalidMD) - The easiest way to remove DNGuard Invalid-MD
 
 - ### DotnetPatcher
   - [DNPDeobfuscator](https://github.com/XenocodeRCE/DNPDeobfuscator) - Open-source deobfuscator for dotnetpatcher (https://bitbucket.org/3dotdev/dotnet-patcher/src/)
@@ -103,7 +160,10 @@ Dumping processes using the power of kernel space !
   - [EazFixer](https://github.com/HoLLy-HaCKeR/EazFixer) - A deobfuscation tool for Eazfuscator.
   - [eazdevirt](https://github.com/saneki/eazdevirt) -Devirtualizer for Eazfuscator.NET
 
-- ### Fixer / Replacer / Simplifier / Remover / Decompressor
+- ### Habib
+  - [habib-deobfuscator-1](https://github.com/sn-0w/habib-deobfuscator-1) - This is part One of my Habib Deobfuscator which will decrypt the actual stub from the packer/security 
+
+- ### Fixer Replacer Simplifier Remover Decompressor
   - [AssemblyRebuilderOld](https://github.com/wwh1004/AssemblyRebuilderOld) - [Obsolete] Fixup .Net Assembly dumped, if it can't work.
   - [AssemblyFixer](https://github.com/wwh1004/AssemblyFixer) - 
 Fix assembly pe header and metadata errors
@@ -111,7 +171,7 @@ Fix assembly pe header and metadata errors
   - [CalliFixer](https://github.com/Riziebtw/CalliFixer) - Here is a little program that remove calli protection from files, easy to use & easy to understand. Using the dnlib assembly.
   - [Base64Encoding-Fixer](https://github.com/Riziebtw/Base64Encoding-Fixer) - Little tool that i made cuse i'm bored rn, fix the string encryption protection (the one which encrypt strings to base64 made by **forgothisname**). Using dnlib assembly. 
   - [DoubleParseFixer](https://github.com/Riziebtw/DoubleParseFixer) - Little program that i made to fix Double Parse obfuscation. Using dnlib assembly.
-  - [Dumpy](https://github.com/NSDCode/Dumpy) -  Simple .NET Assembly deobfuscator. 
+  - [Dumpy](https://github.com/nelpats/Dumpy) -  Simple .NET Assembly deobfuscator. 
   - [IntToString-Deobfuscator](https://github.com/epic6969/IntToString-Deobfuscator) - deobfuscator for int to string mutation (C#) supports negative values
   - [Local2FieldFixer](https://github.com/CursedLand/Local2FieldFixer) - Remove Fields From GlobalType<cctor> To Locals
   - [SizeOf-Fixer](https://github.com/RivaTesu/SizeOf-Fixer) -Fix the sizeof of assembly
@@ -137,7 +197,13 @@ Simple Math Cleaner with invoke method for generic use
   - [netshrinkTrialRemover](https://github.com/miso-xyz/netshrinkTrialRemover) - Removes Trial Restrication from .netshrink Applications (tested on v2.9)        
   - [PEXTUnion](https://github.com/miso-xyz/PEXTUnion) - Cleaner & Extractor for PEUnion (tested on PEunion 3.1.5) 
   - [NETz_Unpacker](https://github.com/miso-xyz/NETz_Unpacker) - Unpacker for NETz Compressor  
-  - [MutationCleaner](https://github.com/miso-xyz/MutationCleaner) - Mod of DevT02's Point Mutation Remover. Now supports TimeSpan Mutations & Now has Better CUI                                     
+  - [MutationCleaner](https://github.com/miso-xyz/MutationCleaner) - Mod of DevT02's Point Mutation Remover. Now supports TimeSpan Mutations & Now has Better CUI    
+  - [CCFlow](https://github.com/miso-xyz/CCFlow) - a control flow (cflow) cleaner       
+  - [GruMinion](https://github.com/miso-xyz/GruMinion) - Full Deobfuscator for PEUnion 4.0.0 (.NET & PE32) 
+  - [EazRemoveTrial](https://github.com/M4doT/EazRemoveTrial) - After protected with Eazfuscator trial version then drag your protected file into EazRemoveTrial.exe, So you can use it forever not for 7 days, Working with lastest version
+  - [DotNetReactorTrialRemover](https://github.com/CabboShiba/DotNetReactorTrialRemover) - Remove 14-Days Trial with this tool. Made with Harmony by Cabbo. 
+  - [EazFuscatorTrialRemover](https://github.com/CabboShiba/EazFuscatorTrialRemover) - Remove 7-Days EazFuscator Trial with this tool. Made with Harmony.  
+
 
 - ### ILProtector
   - [ILProtectorUnpacker](https://github.com/RexProg/ILProtectorUnpacker) - ILProtector Unpacker Script
@@ -147,11 +213,19 @@ Simple Math Cleaner with invoke method for generic use
 - ### KoiVM
   - [OldRod](https://github.com/Washi1337/OldRod) - An automated KoiVM devirtualisation utility
   - [Rhydon](https://github.com/TobitoFatitoRE/Rhydon) - Rhydon
- 
+
+- ### Logic.NET
+    - [LoGeek](https://github.com/miso-xyz/LoGeek) - LoGiC.NET Deobfuscator, supports all protections except proxy calls, currently getting updated to work with LoGiC.NET v1.5     
+    - [DuckiKov](https://github.com/miso-xyz/DuckiKov) - Cleaner for kov.NET (Modded LoGiC.NET) 
+    - [LoGiC.NET-Deobfuscator](https://github.com/dinhle85/LoGiC.NET-Deobfuscator) - Deobfuscator for LoGiC.NET Obfuscator. 
+
 - ### MemeVM
   - [MemeDevirtualizer](https://github.com/MindSystemm/MemeDevirtualizer) - Devirtualizer for MemeVM (MindSystem)
   - [MemeVM-Devirt](https://github.com/CursedSheep/MemeVM-Devirt) - A devirtualizer for MemeVM (CursedSheep)
   - [MemeVMDevirt](https://github.com/congviet/MemeVMDevirt) - devirtualizer for memevm (MageLand29)
+
+- ### MindLated
+  - [LostMyMisoSoup](https://github.com/miso-xyz/LostMyMisoSoup) - a stable & effective deobfuscator for MindLated
 
 - ### NashaVM
   - [Deoxys](https://github.com/StackUnderflowRE/Deoxys) - Deoxys is a Devirtualization utility for NashaVM, a Virtual Machine which runtime was made in C++/CLI 
@@ -169,6 +243,9 @@ Simple Math Cleaner with invoke method for generic use
   - [NET-Reactor-Cflow-Cleaner-6.7.0.0](https://github.com/Hussaryn/NET-Reactor-Cflow-Cleaner-6.7.0.0) - Simple Controlflow Deobfuscator for .NET Reactor 6.7.0.0
   - [NET-Reactor-String-Cleaner-6.7.0.0](https://github.com/Hussaryn/NET-Reactor-String-Cleaner-6.7.0.0) - Simple String Cleaner for .NET Reactor 6.7.0.0
   - [.NETReactorSlayer](https://github.com/SychicBoy/NETReactorSlayer) - A GUI and CLI deobfuscator for .NET Reactor which also decrypts tokens, cleans, flow deobfuscator, and many more. 
+
+- ### NetShield Protector
+  - [UniShield](https://github.com/miso-xyz/UniShield) - Deobfuscator for NetShield Protector 
                                                                                                                            
 - ### Obfuscar
   - [DeObfuscar](https://github.com/XenocodeRCE/DEObfuscar) - An open source deobfuscator for 'Obfuscar'
@@ -178,7 +255,8 @@ Simple Math Cleaner with invoke method for generic use
   - [OrangeHeap-Deobfuscator](https://github.com/netlool/OrangeHeap-Deobfuscator) - Deobfuscates an Assembly protected with Orangeheap
 
 - ### Origami
-  - [Unfold](https://github.com/NSDCode/Unfold) - Unfold is a simple tool that extract Assmebly packed with Origami.
+  - [Unfold](https://github.com/nelpats/Unfold) - Unfold is a simple tool that extract Assmebly packed with Origami.
+  - [PaperPlane](https://github.com/miso-xyz/PaperPlane) - Yet Another Origami Unpacker but this one has amogus jokes and support XOR encryption 
 
 - ### Patcher
   - [.NET-Virtualized-App-Patcher](https://github.com/ForlaxPy/.NET-Virtualized-Apps-Patcher) - This is a universal Patcher that I coded for Virtualized Applications. Protected by KoiVM/EazVM/AgileVM. The project idea wasn't mine at all it was by xsilent and Tobito and they released a txt that contains the tracer, uh I asked time for some infos and ended up coding my version.
@@ -187,7 +265,7 @@ Simple Math Cleaner with invoke method for generic use
   - [Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
   - [JitUnpacker-Framework](https://github.com/wwh1004/JitUnpacker-Framework) - A jit hook and unpacker framework
   - [dnpatch](https://github.com/ioncodes/dnpatch) - dnpatch is the ultimate library for all your .NET patching needs. It offers automated assembly patching, signature scanning and last but but not least bypassing of obfuscators by its ability to find methods in renamed/obfuscated types. Since the stars on GitHub exploded in a few days, dnpatch has been extended by a couple of projects. The most important one is dnpatch.deobfuscation which integrates de4dot directly into dnpatch. Also there is dnpatch.script, which gives you the ability to write patchers with pure JSON! The library itself uses dnlib (see next part).
-  - [EazRemoveTrial](https://github.com/M4doT/EazRemoveTrial) - After protected with Eazfuscator trial version then drag your protected file into EazRemoveTrial.exe, So you can use it forever not for 7 days, Working with lastest version
+
 
 
 - ### Renamer
@@ -205,6 +283,9 @@ Simple Math Cleaner with invoke method for generic use
 - ### Protect.NET
   - [ProtectNotNet](https://github.com/netlool/ProtectNotNet) - Decrypts Protect.NET encrypted strings 
 
+- ### SaintFuscator
+  - [SinUnfuscator](https://github.com/miso-xyz/SinUnfuscator) - Basic Deobfuscator for SaintFuscator   
+
 - ### String Decryptor
   - [StackYenoDeobfuscator](https://github.com/MindSystemm/StackYenoDeobfuscator) - String decryptor relying on the stack. Made for teach
   - [StringDecryptorBase](https://github.com/MindSystemm/StringDecryptorBase) - Complete basic string decryptor to help new reversers. The code is commented
@@ -218,9 +299,12 @@ Simple Math Cleaner with invoke method for generic use
 - ### SpecterObfuscator
   - [SpecterObfuscator-Deobfuscator](https://github.com/XenocodeRCE/SpecterObfuscator-Deobfuscator) - a deobfuscator for https://github.com/NepErwin/SpecterObfuscator
 
+- ### Spices.Net
+  - [CajunSpice](https://github.com/miso-xyz/CajunSpice) - Strings & Proxy Fixer for Spices.net 5.22.29.3   
+
 - ### VMP.NET
   - [VMP.NET-Kill](https://github.com/DarkBullNull/VMP.NET-Kill) - This program allows you to bypass CRC checking, anti-debugging and anti-VM. Doesn't work when the app is packaged. 
-
+  - [VMUnprotect.Dumper](https://github.com/void-stack/VMUnprotect.Dumper) - VMUnprotect.Dumper can dynamically untamper VMProtected Assembly. 
 - ### Themida .NET
   - [Themida-Unpacker-for-.NET](https://github.com/cg10036/Themida-Unpacker-for-.NET) - Themida Unpacker for .NET
   - [ThemidaStringDecryptor](https://github.com/oSumAtrIX/ThemidaStringDecryptor) - Decrypt strings from a themida .net module dump 
